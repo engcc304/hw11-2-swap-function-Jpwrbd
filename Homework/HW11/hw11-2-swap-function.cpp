@@ -22,8 +22,7 @@
         Name: Thane (31)
 
 */
-#include <stdio.h>
-
+#include <stdio.h>//start
 void age_user(int *age1, int *age2) {
     int temp = *age1 ;
     *age1 = *age2 ;
